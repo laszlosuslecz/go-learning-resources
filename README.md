@@ -1,5 +1,9 @@
 # go-learning-resources
 
+### errors
+
+- Dave Cheney [Don’t just check errors, handle them gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+
 
 ### testing
 
@@ -7,7 +11,6 @@
 - The Stream Blog [Go testing at Stream](https://getstream.io/blog/how-we-test-go-at-stream/)
 - Mat Ryar [5 simple tips and tricks for writing unit tests in #golang](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742)
 - Eric Mayers / Yik Yak Engineering [Three Golden Testing Patterns in Go](https://medium.com/yik-yak-eng/three-golden-testing-patterns-in-go-29bc9134ace1)
-
 - Mitchell Hashimoto / GopherCon 2017 [Advanced Testing with Go](https://www.youtube.com/watch?v=8hQG7QlcLBk)
 
 
